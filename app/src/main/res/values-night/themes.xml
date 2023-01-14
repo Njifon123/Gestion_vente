@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Gestion_vente" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/first_name</item>
+        <item name="colorPrimaryDark">@color/first_name</item>
+        <item name="colorAccent">@color/first_name</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
